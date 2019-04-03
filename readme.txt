@@ -1,3 +1,5 @@
+Klasifikasi buah menggunakan algoritma KNN Python
+
 Cara penggunaan Aplikasi CLI (command line interface) fruit classification
 
 1. Sebelum menjalankan aplikasi, pastikan package-package yang terdapat pada file requirements.txt sudah terinstall
